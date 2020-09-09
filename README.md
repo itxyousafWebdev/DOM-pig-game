@@ -1,5 +1,8 @@
 # DOM-pig-game
 
+### Out-comes
+This is a fun game to improve your DOM and Java script skills
+
 #### Preview : [Pig-Game](https://itxyousafwebdev.github.io/Bootstrap---Landing-Page/)
 <a href="https://itxyousafwebdev.github.io/DOM-pig-game/"> <img src="./screen.PNG"> </a>     
 
